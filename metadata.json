@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AstroSoul - AI Vedic Astrologer",
+  "description": "Premium AI Astrology platform offering daily horoscopes, live chat with Rishi the AI Astrologer, love predictions, and secure wallet payments.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

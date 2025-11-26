@@ -1,0 +1,13 @@
+# Frontend Runtime (Current Environment)
+react
+react-dom
+@google/genai
+lucide-react
+tailwindcss
+
+# Backend Requirements (If migrating to Python/Flask)
+flask
+flask-sqlalchemy
+google-genai
+python-dotenv
+mysql-connector-python
